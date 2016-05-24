@@ -1,2 +1,2 @@
 # test-jenkins
-Use for Thorin Project :)
+Use for Thorin Project
